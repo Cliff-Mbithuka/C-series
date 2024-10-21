@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Type System", "Type System"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuTypes", "Type System\ValuTypes\ValuTypes.csproj", "{C3B8F262-550F-4625-97DA-B641DC5A8845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reference Type", "Type System\Reference Type\Reference Type.csproj", "{8304173A-321A-466C-87A2-AA34B871B0A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{C3B8F262-550F-4625-97DA-B641DC5A8845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3B8F262-550F-4625-97DA-B641DC5A8845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3B8F262-550F-4625-97DA-B641DC5A8845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8304173A-321A-466C-87A2-AA34B871B0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8304173A-321A-466C-87A2-AA34B871B0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8304173A-321A-466C-87A2-AA34B871B0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8304173A-321A-466C-87A2-AA34B871B0A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +38,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C3B8F262-550F-4625-97DA-B641DC5A8845} = {302741A8-2620-4203-9E15-2689632989BD}
+		{8304173A-321A-466C-87A2-AA34B871B0A0} = {302741A8-2620-4203-9E15-2689632989BD}
 	EndGlobalSection
 EndGlobal
