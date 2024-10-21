@@ -1,0 +1,14 @@
+E:\c# series\Type System\ValuTypes\bin\Debug\net8.0\ValuTypes.exe
+E:\c# series\Type System\ValuTypes\bin\Debug\net8.0\ValuTypes.deps.json
+E:\c# series\Type System\ValuTypes\bin\Debug\net8.0\ValuTypes.runtimeconfig.json
+E:\c# series\Type System\ValuTypes\bin\Debug\net8.0\ValuTypes.dll
+E:\c# series\Type System\ValuTypes\bin\Debug\net8.0\ValuTypes.pdb
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.AssemblyInfoInputs.cache
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.AssemblyInfo.cs
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.csproj.CoreCompileInputs.cache
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.dll
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\refint\ValuTypes.dll
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.pdb
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ValuTypes.genruntimeconfig.cache
+E:\c# series\Type System\ValuTypes\obj\Debug\net8.0\ref\ValuTypes.dll
